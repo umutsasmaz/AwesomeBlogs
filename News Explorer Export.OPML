@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+    <head>
+        <title>News Explorer</title>
+    </head>
+    <body>
+        <outline text="FunStuff">
+            <outline type="rss" text="Work Chronicles" title="Work Chronicles" xmlUrl="https://workchronicles.substack.com/feed" htmlUrl="https://workchronicles.substack.com"></outline>
+            <outline type="rss" text="xkcd.com" title="xkcd.com" xmlUrl="https://xkcd.com/rss.xml" description="xkcd.com: A webcomic of romance and math humor." htmlUrl="https://xkcd.com/"></outline>
+        </outline>
+        <outline text="NetworkingBlogs">
+            <outline type="rss" text="rule 11 reader" title="rule 11 reader" xmlUrl="http://rule11.tech/feed/" description="culture eats technology for breakfast" htmlUrl="https://rule11.tech"></outline>
+            <outline type="rss" text="Riccardo Nalesso&#39;s Blog" title="Riccardo Nalesso&#39;s Blog" xmlUrl="https://thetechguy.it/index.xml" description="Recent content on Riccardo Nalesso&#39;s Blog" htmlUrl="https://www.thetechguy.it/"></outline>
+            <outline type="rss" text="Blog - Networking fun" title="Blog - Networking fun" xmlUrl="http://www.network-node.com/blog?format=RSS" description="Blog" htmlUrl="http://www.network-node.com/blog/"></outline>
+            <outline type="rss" text="Applying DevOps to networks" title="Applying DevOps to networks" xmlUrl="https://netdevops.me/feed_rss_created.xml" description="Applying DevOps to networks." htmlUrl="https://netdevops.me/"></outline>
+            <outline type="rss" text="Network Automation » Feed" title="Network Automation » Feed" xmlUrl="https://networkautomationlane.in/feed/" htmlUrl="https://networkautomationlane.in/"></outline>
+            <outline type="rss" text="Automate Your Network » Feed" title="Automate Your Network » Feed" xmlUrl="https://www.automateyournetwork.ca/feed/" htmlUrl="https://www.automateyournetwork.ca/"></outline>
+            <outline type="json" text="Leading, Coaching, and Mentoring Network Design for all IT Professionals" title="Leading, Coaching, and Mentoring Network Design for all IT Professionals" xmlUrl="https://zigbits.tech/wp-json/wp/v2/pages/5388" htmlUrl="https://zigbits.tech/"></outline>
+            <outline type="rss" text="layer8packet" title="layer8packet" xmlUrl="https://www.layer8packet.io/home?format=rss" htmlUrl="https://www.layer8packet.io/"></outline>
+            <outline type="rss" text="ccie.tv" title="ccie.tv" xmlUrl="https://ccie.tv/rss/" htmlUrl="https://ccie.tv/"></outline>
+            <outline type="rss" text="umutsasmaz » Feed" title="umutsasmaz » Feed" xmlUrl="https://umutsasmaz.com/feed/" htmlUrl="https://umutsasmaz.com"></outline>
+            <outline type="rss" text="{networkphil}" title="{networkphil}" xmlUrl="https://networkphil.com/feed/" description="networking | writing | teaching" htmlUrl="https://networkphil.com"></outline>
+            <outline type="rss" text="Weberblog.net » Feed" title="Weberblog.net » Feed" xmlUrl="https://weberblog.net/feed/" htmlUrl="https://weberblog.net"></outline>
+            <outline type="rss" text="Ethan Banks - Packet Pushers" title="Ethan Banks - Packet Pushers" xmlUrl="https://feeds.ethancbanks.com/" description="Blogging about networking since 2007." htmlUrl="https://packetpushers.net"></outline>
+            <outline type="rss" text="Lost in Networking » Feed" title="Lost in Networking » Feed" xmlUrl="https://charlesuneze.wordpress.com/feed/" htmlUrl="https://charlesuneze.wordpress.com"></outline>
+            <outline type="rss" text="The Networking Nerd" title="The Networking Nerd" xmlUrl="https://networkingnerd.net/feed/" description="Networking With A Side of Snark" htmlUrl="https://networkingnerd.net"></outline>
+            <outline type="rss" text="Byrns Memory Blogger" title="Byrns Memory Blogger" xmlUrl="https://blog.byrnbaker.me/feed.xml" htmlUrl="https://blog.byrnbaker.me/"></outline>
+            <outline type="rss" text="Rowell Dionicio » Feed" title="Rowell Dionicio » Feed" xmlUrl="https://rowelldionicio.com/feed/" htmlUrl="https://rowelldionicio.com"></outline>
+            <outline type="rss" text="PacketLife.net Blog" title="PacketLife.net Blog" xmlUrl="https://packetlife.net/blog/feed/" description="A networking blog maintained by Jeremy Stretch" htmlUrl="https://packetlife.net/blog/"></outline>
+            <outline type="rss" text="51 Security" title="51 Security" xmlUrl="https://www.51sec.org/feed/" description="Learning, Sharing, Creating" htmlUrl="https://www.51sec.org"></outline>
+            <outline type="rss" text="Welcome to dave.dev" title="Welcome to dave.dev" xmlUrl="https://dave.dev/index.xml" htmlUrl="https://dave.dev/"></outline>
+            <outline type="rss" text="StubArea51.net" title="StubArea51.net" xmlUrl="https://stubarea51.net/feed/" description="Whitebox Network Engineering , News and Reviews" htmlUrl="https://stubarea51.net"></outline>
+            <outline type="rss" text="Carpe DMVPN » Feed" title="Carpe DMVPN » Feed" xmlUrl="https://carpe-dmvpn.com/feed/" htmlUrl="https://carpe-dmvpn.com/"></outline>
+            <outline type="rss" text="Josh-V" title="Josh-V" xmlUrl="https://josh-v.com/feed_rss_created.xml" htmlUrl="https://josh-v.com/"></outline>
+            <outline type="rss" text="802101" title="802101" xmlUrl="https://www.802101.com/feed/" description="cat brain | grep &quot;network&quot; &gt; blog" htmlUrl="https://www.802101.com/"></outline>
+            <outline type="rss" text="ipSpace.net Blog Posts" title="ipSpace.net Blog Posts" xmlUrl="https://feed.ipspace.net/blog/" htmlUrl="https://blog.ipspace.net/index.xml"></outline>
+            <outline type="rss" text="Daniels Networking Blog" title="Daniels Networking Blog" xmlUrl="https://lostintransit.se/feed/" description="Networking articles by CCIE #37149/ CCDE #20160011" htmlUrl="https://lostintransit.se"></outline>
+        </outline>
+    </body>
+</opml>
